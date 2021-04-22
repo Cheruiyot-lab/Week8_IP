@@ -14,7 +14,7 @@
 
 ## Technologies Used
 
-* I Used Google Colab as our primary work environment.
+* I Used Google Colab as my primary work environment.
 
 ## Support
 
