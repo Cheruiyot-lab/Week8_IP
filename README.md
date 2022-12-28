@@ -1,7 +1,7 @@
 # Hypothyroid Classification Modelling using Support Vector Machines and Random Forest.
 
 
-#### By Nelson Muteti
+#### By Cheruiyot Lilcoln
 
 ## PROBLEM STATEMENT
 
@@ -20,7 +20,7 @@
 
 * Contact me at:
      
-              nelsonmuteti012@gmail.com
+              cheruiyotlilcoln@gmail.com
              
 
 
@@ -31,4 +31,4 @@
 
 MIT License
 
-Copyright (c) 2021 NelsonM
+Copyright (c) 2021 Cheruiyot
